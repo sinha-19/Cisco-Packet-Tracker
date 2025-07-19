@@ -2,7 +2,7 @@
 
 This repository contains a set of **8 lab assignments** created using **Cisco Packet Tracer (version 8.2 or later)**, part of the Computer Networks Lab in the 5th semester of the B.Tech program at **Kalinga Institute of Industrial Technology (KIIT)**.
 
-Each lab demonstrates key networking concepts with hands-on simulations, helping students bridge theory and practice.
+Each lab demonstrates key networking concepts with hands-on simulations, helping students bridge theory and practice. 
 
 ---
 
